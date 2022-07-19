@@ -4,7 +4,11 @@
         "vid": "0x0781",
         "sn": "1772ODN072100",
         "mac1": "0011327B0045",
-        "mac2": "0011327B0046"
+        "mac2": "0011327B0046",
+        "netif_num": "2",
+        "DiskIdxMap": "00",
+        "SataPortMap": "1",
+        "SasIdxMap": "8"
     },
     "synoinfo": {},
     "ramdisk_copy": {},
